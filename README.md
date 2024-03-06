@@ -236,6 +236,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [AtomGraph](https://atomgraph.com/) - Free your data from silos
 - [Ontopic](https://ontopic.ai/) - Create Knowledge Graphs from databases and datalakes. Core contributors to Ontop and experts in virtualization.
 - [iNovex](https://mobi.inovexcorp.com/) - Web-based, collaborative ontology and vocabulary editor, and knowledge graph solution platform.
+- [Meaningfy](https://meaningfy.ws/) - Integration of unstructured data into comprehensive knowledge systems.
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -942,6 +943,8 @@ OS - OpenSource
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs.
 - [Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models.
 - [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources. 
+- [rdf-fingerprinter](https://github.com/meaningfy-ws/rdf-fingerprinter) - Fingerprint an RDF repository and construct the Application Profile it instantiates. Also, it allows to make AP diff between two RDF fingerprints. 
+- [rdf-differ-ws](https://github.com/meaningfy-ws/rdf-differ-ws) - A service for calculating the difference between versions of a given RDF dataset.
 
 ### R
 
