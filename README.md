@@ -943,7 +943,8 @@ OS - OpenSource
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs.
 - [Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models.
 - [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources. 
-- [rdf-fingerprinter](https://github.com/meaningfy-ws/rdf-fingerprinter) - Fingerprint an RDF repository and construct the Application Profile it instantiates. Also, it allows to make AP diff between two RDF fingerprints. 
+- [rdf-fingerprinter-ws](https://github.com/meaningfy-ws/rdf-fingerprinter-ws) - A semantic summarization and Application Profile building application for RDF datasets.
+- [rdf-fingerprinter](https://github.com/meaningfy-ws/rdf-fingerprinter) - A semantic summarization and Application Profile building application for RDF datasets (CLI tool).
 - [rdf-differ-ws](https://github.com/meaningfy-ws/rdf-differ-ws) - A service for calculating the difference between versions of a given RDF dataset.
 
 ### R
